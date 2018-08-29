@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![this is an online image](https://www.braingroom.com/img/Vendor/class_image/studying-postgraduate-degree-guide-online-learning-support.jpg)
